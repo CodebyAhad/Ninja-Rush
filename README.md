@@ -1,2 +1,3 @@
 # Ninja-Rush
 A "Chrome Dino Game" Like Game......
+Based on SFML(simple and fast multimedia library).
